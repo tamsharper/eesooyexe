@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zoechookah.darrensheh.com/sitemap.xml
